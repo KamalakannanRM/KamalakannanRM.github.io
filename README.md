@@ -1,6 +1,6 @@
 # [kamalakannan.co.in](http://kamalakannan.co.in)
 
-My website for clients to explore about myself.
+A website for clients to explore about myself.
 <br/><br/>
 
 ## License
