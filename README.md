@@ -1,7 +1,7 @@
-# [kamalakannan.co.in](http://kamalakannan.co.in)
+# [https://kamalakannan.co.in](http://kamalakannan.co.in)
 
 My website for clients to explore about myself.
-
+<br/><br/>
 
 ## License
 
@@ -18,16 +18,16 @@ My website for clients to explore about myself.
 </tr>
 </table>
 
-### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
-
-**You are free to:**
+### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode):
+<br/>
+<b>You are free to:</b>
 <table>
 	<tr><td>
 		<b>Share</b> — copy and redistribute the material in any medium or format. The licensor cannot revoke these freedoms as long as you follow the license terms.
 	</td></tr>
 </table>
-
-**Under the following terms:**
+<br/>
+<b>Under the following terms:</b>
 <table>
 <tr>
     <td>
@@ -67,8 +67,8 @@ My website for clients to explore about myself.
     </td>
 </tr>
 </table>
-
-**Notices:**
+<br/>
+<b>Notices:</b>
 <table>
 	<tr><td>
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
@@ -76,6 +76,7 @@ You do not have to comply with the license for elements of the material in the p
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 	</td></tr>
 </table>
+<br/>
 
 ## Credits
 - [Kamalakannan R M](mailto:kamalakannan.r.m@outlook.com)
