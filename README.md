@@ -20,9 +20,10 @@ My website for clients to explore about myself.
 
 ### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 
+**You are free to:**
 <table>
 	<tr><td>
-		<b>You are free to Share</b> — copy and redistribute the material in any medium or format. The licensor cannot revoke these freedoms as long as you follow the license terms.
+		<b>Share</b> — copy and redistribute the material in any medium or format. The licensor cannot revoke these freedoms as long as you follow the license terms.
 	</td></tr>
 </table>
 
@@ -67,11 +68,11 @@ My website for clients to explore about myself.
 </tr>
 </table>
 
-**Notices**
+**Notices:**
 <table>
 	<tr><td>
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-<br/>
+<br/><br/>
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 	</td></tr>
 </table>
