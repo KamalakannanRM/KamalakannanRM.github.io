@@ -51,11 +51,11 @@ My website for clients to explore about myself.
 </tr>
 <tr>
     <td>
-        <img alt="No Derivatives" style="border-width:0;" src="https://creativecommons.org/images/deed/nd_blue_x2.png"/>
+        <img alt="NoDerivatives" style="border-width:0;" src="https://creativecommons.org/images/deed/nd_blue_x2.png"/>
     </td>
     <td>
         <p style="font-size:11px">
-	<b>NoDerivatives</b> — If you remix, transform, or build upon the material, you may not distribute the modified material.
+	<b>No Derivatives</b> — If you remix, transform, or build upon the material, you may not distribute the modified material.
 	</p>
     </td>
 </tr>
