@@ -45,13 +45,13 @@ My website for clients to explore about myself.
     </td>
     <td>
         <p style="font-size:11px">
-	<b>NonCommercial</b> — You may not use the material for commercial purposes.
+	<b>Non Commercial</b> — You may not use the material for commercial purposes.
 	</p>
     </td>
 </tr>
 <tr>
     <td>
-        <img alt="NoDerivatives" style="border-width:0;" src="https://creativecommons.org/images/deed/nd_blue_x2.png"/>
+        <img alt="No Derivatives" style="border-width:0;" src="https://creativecommons.org/images/deed/nd_blue_x2.png"/>
     </td>
     <td>
         <p style="font-size:11px">
